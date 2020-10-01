@@ -43,7 +43,7 @@ formatter.match({
   "location": "SignupRhype.launch_Chrome_browser()"
 });
 formatter.result({
-  "duration": 6540519700,
+  "duration": 6910763300,
   "status": "passed"
 });
 formatter.match({
@@ -56,28 +56,28 @@ formatter.match({
   "location": "SignupRhype.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 7742325900,
+  "duration": 8331025900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignupRhype.user_enters_General_Information()"
 });
 formatter.result({
-  "duration": 1414521500,
+  "duration": 1671096700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignupRhype.user_enters_Authorised_Signatory_Contact_details()"
 });
 formatter.result({
-  "duration": 566642300,
+  "duration": 662401000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignupRhype.click_on_Sign_up_button()"
 });
 formatter.result({
-  "duration": 56700,
+  "duration": 61400,
   "status": "passed"
 });
 });
