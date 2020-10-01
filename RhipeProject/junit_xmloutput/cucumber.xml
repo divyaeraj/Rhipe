@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="16.264066">
-    <testcase classname="Rhipe Signup webpage" name="To check the Rhipe Signup functionality" time="16.264066">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="17.575348">
+    <testcase classname="Rhipe Signup webpage" name="To check the Rhipe Signup functionality" time="17.575348">
         <system-out>
             <![CDATA[Given Launch Chrome browser.................................................passed
 When User opens URL "https://dev-rhipe-signup.azurewebsites.net/"...........passed
